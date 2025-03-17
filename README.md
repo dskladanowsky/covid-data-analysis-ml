@@ -1,8 +1,8 @@
-# COVID-19 Detection Model Readme
+# COVID-19 Detection: Exploratory Analysis and Model Evaluation
 
 ## Introduction
 
-This project focuses on building and evaluating machine learning models for the detection of COVID-19 using a dataset containing various clinical and demographic features. The goal was to create a robust classifier capable of distinguishing between individuals who are likely to have COVID-19 and those who are not. The models were trained, evaluated, and compared based on key performance metrics such as accuracy, true positive ratio, true negative ratio, false positive ratio, and false negative ratio.
+This project focuses on exploratory data analysis and building machine learning models to detect COVID-19 from clinical and demographic features. The goal was to assess different classifiers' performance in distinguishing between individuals with and without COVID-19, paying close attention to data issues like missing values and class imbalances. The models were evaluated based on accuracy, true/false positive, and true/false negative ratios. Key steps include data preprocessing, feature selection, and model evaluation using algorithms like Random Forest, SVM, and others, with a focus on improving model performance through careful analysis and handling of the dataset.
 
 The approach in this notebook involves data preprocessing, feature selection, model training, and evaluation, with special attention to handling issues such as missing data, class imbalance, and overfitting.
 
